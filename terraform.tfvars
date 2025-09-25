@@ -1,0 +1,5 @@
+flavor_name           = "m1.small"
+network_name          = "net1"
+instance_name         = "instanz_1"
+image_name            = "ubuntu-24.04-server-cloudimg-amd64"
+external_network_name = "external"
